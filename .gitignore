@@ -1,7 +1,7 @@
-ClientTrackit\.vs
-ClientTrackit\ClientTrackit\bin
-ClientTrackit\ClientTrackit\obj
-ServiceTrackit\.vs
-ServiceTrackit\ServiceTrackit\bin
-ServiceTrackit\ServiceTrackit\obj
+ClientTrackit/.vs
+ClientTrackit/ClientTrackit/bin
+ClientTrackit/ClientTrackit/obj
+ServiceTrackit/.vs
+ServiceTrackit/ServiceTrackit/bin
+ServiceTrackit/ServiceTrackit/obj
 
